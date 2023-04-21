@@ -1,3 +1,26 @@
+# Skills Demonstrated
+-Define the building blocks of all programming languages: variables, arrays, conditionals, loops, and functions.
+
+-Create simple VBA macros to trigger pop-ups and change cell values.
+
+-Write VBA subroutines that use variables and conditionals.
+
+-Practice essential coding skills including syntax recollection, pattern recognition, problem decomposition, and debugging.
+
+-Describe the basic syntax of a VBA for loop.
+
+-Direct logic flow by using for loops and conditionals.
+
+-List the benefits of using nested for loops.
+
+-Explain the basic process of using nested for loops.
+
+-Feel more confident in your fundamental coding skills, including syntax recollection, pattern recognition, problem decomposition, and debugging.
+
+-Format spreadsheets with VBA code.
+
+-Loop through a table with VBA code and check for changes in values.
+
 # VBA-Challenge
 A project containing all solved materials for Module 2 VBA Challenge.
 
